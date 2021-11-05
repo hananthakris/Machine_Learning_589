@@ -1,2 +1,4 @@
 # Public_Code
-Personal repository 
+REGRESSION - ASSIGNMENT 1
+
+CLASSIFICATION - ASSIGNMENT 2
